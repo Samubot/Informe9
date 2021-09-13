@@ -22,3 +22,5 @@ MATERIAL Y EQUIPO REQUERIDO
 Calculadora cientifica.
 
 9.1 Transforme a su forma polar:
+
+![](informe9-1.jpg)

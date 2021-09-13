@@ -61,3 +61,9 @@ Calculadora cientifica.
 • Los números complejos deben estar en forma rectangular si queremos sumarlos o restarlos.
 
 • La multiplicación y división de dos números complejos es más fácil cuando ambos están en forma polar, por lo que es mejor convertirlos a forma polar antes de multiplicarlos o dividirlos.
+
+7.BIBLIOGRAFÍA
+
+• Floyd Thomas L, “Principios de Circuitos Eléctricos”, 8 ed. 2007 .Pearson Educación de México, S.A. de C.V. México, pp. 281-333.
+
+• Macías García, M. E., Contreras Hinojosa, C., Anaya Zamora, R., García, M. E. M., Hinojosa, C. C., & Zamora, R. A. Circuitos eléctricos de corriente alterna.

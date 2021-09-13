@@ -23,4 +23,12 @@ Calculadora cientifica.
 
 9.1 Transforme a su forma polar:
 
-![](informe9-1.jpg)
+<img src= img/informe9-1.jpg>
+
+<img src= img/informe-2.jpg>
+
+<img src= img/informe9-2.jpg>
+
+<img src= img/informe9-3.jpg>
+
+<img src= img/informe9-4.jpg>

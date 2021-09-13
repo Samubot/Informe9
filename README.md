@@ -1,5 +1,5 @@
 # Informe9
-OBJETIVOS
+ OBJETIVOS
 
 OBJETIVO GENERAL
 
@@ -20,6 +20,10 @@ OBJETIVOS ESPECIFICOS
 MATERIAL Y EQUIPO REQUERIDO
 
 Calculadora cientifica.
+
+MARCO TEÓRICO
+
+<img src= img/informe9-10.jpg>
 
 9.1 Transforme a su forma polar:
 
